@@ -1,4 +1,4 @@
-## multi-stage-inventory-optimization-model-
+## Multi-Stage Inventory Optimization Model
 This program helps determine the optimal inventory management strategy over several stages (time periods).
 
 It tries to minimize total cost while accounting for:
